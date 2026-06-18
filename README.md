@@ -5,7 +5,7 @@
 By day I'm hunting hardware defects at Quanta Computer BMC gremlins, no-boots, FRU mismatches, shell scripts that turn manual misery into one-liners.
 By night I'm building full-stack web apps. CS grad from MTSU, full-stack apprentice from Nashville Software School. I like clean code, ugly bugs, and the simplest path to a working solution.
 
-📍 Nashville, TN &nbsp;·&nbsp; 📬 [hautersolomon.dev@gmail.com](mailto:hautersolomon.dev@gmail.com) &nbsp;·&nbsp; 🟢 Open to contracts
+📍 Nashville, TN &nbsp;·&nbsp; 📬 https://hsolo.netlify.app/ &nbsp;·&nbsp; 🟢 Open to contracts
 
 ---
 
