@@ -44,7 +44,7 @@ By night I'm building full-stack web apps. CS grad from MTSU, full-stack apprent
 | 01 | [CenterIQ ↗](https://centeriq.netlify.app/) | TCG card centering tool — analyzes card photos and estimates centering grades before you send to PSA/BGS/CGC | HTML · CSS · JS · Image Analysis |
 | 02 | [HustleHub ↗](https://github.com/Hautsolo/HustleHub) | Full-stack freelancer marketplace — profiles, service listings, project inquiries, searchable portfolio directory. Custom REST API, ERD-designed schema | React · C# / .NET · PostgreSQL · EF · Bootstrap |
 | 03 | [GetAJoke ↗](https://getajoke1.netlify.app/) | Live community joke platform with auth, voting, and commenting. Separated front/back architecture, actively deployed | React · C# / .NET · PostgreSQL · Netlify |
-| 04 | [`simple_check_tool.sh`](https://github.com/Hautsolo) | Internal bash diagnostic for Quanta server platforms — BMC/NIC health checks, FRU cross-validation, PASS/FAIL summary | Bash · IPMI · Linux |
+
 
 ---
 
